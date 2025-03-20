@@ -320,6 +320,7 @@ a{
     display: flex;
     width: 100px;
     margin-bottom: 10px;
+
 }
 .div12{
     margin-left:20px;
@@ -345,7 +346,7 @@ a{
 
 }
 .cuadro{
-    width: 300px;
+    width: 405px;
     display: flex;
     height: 100px;
 }
@@ -359,7 +360,7 @@ form{
 
 }
 .p8{
-    width: 300px;
+    width: 450px;
 }
 .mar{
 
@@ -375,18 +376,18 @@ form{
 }
 .noveno{
 
-    background-color: rgb(244,204,4) ;
-    color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0) ;
+    color: rgb(255, 255, 255);
     border: none;
-    height: 50px;
-    width: 20px;
-    justify-content: center;
-    margin: 50px;
+    height: 500px;
+    width: 200px;
+
+
 
 }
 .div14{
-    margin-top: 300px;
-
+    margin-top: 200px;
+    
 
 }
 .section07{
@@ -397,9 +398,101 @@ form{
 
 
 }
+.h208{
+
+    color: rgb(244,204,4);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 450px;
+}
+.p9{
+    width: 400px;
+}
+
+.decimo{
+    margin:20px;
+    background-color: rgb(0, 0, 0) ;
+    color: rgb(255, 255, 255);
+    border: none;
+    height: 50px;
+    width: 100px;
 
 
+}
+.enlaces1{
+    display: flex;
+    flex-direction: column; 
+    color: rgb(244,204,4) ;
+}
+.enlaces2{
+    margin-top: -20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; 
+}
+div a{
+    color: rgb(244,204,4) ;
+}
+
+.p10{
+    background-color: black;
+    color: aliceblue;height: 0;
+}
+.section09{
+    color: rgb(244,204,4);
+    background-color: black;
+    display: flex;
+    justify-content: space-between;  /* Separa los elementos */
+    align-items: center;  /* Centra verticalmente */
+    height: 100px;  /* Ocupar toda la pantalla */
+    padding: 20px;
+}
+a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.div15{
+    margin-top: 100px;
+    display: flex;
+    color: rgb(244,204,4) ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.imgr{
+    filter: brightness(0) invert(1);
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 400px;
+
+}
+.section08{
+    background-color: black;
+    margin-bottom: -15px;
+}
+.div16{
+    background-color: black;
+}
+.copy02{
+    margin-right: 300px; 
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.imgr01 {
+    margin-left: 10px;
+    filter: sepia(100%) saturate(500%) hue-rotate(10deg);
+}
 /*imagenes*/
+.logoo{
+    margin-top: 100px;
+    filter: invert(100%);
+}
 .logo{
     margin-top: 35px;
     margin-left: 60px;
@@ -417,13 +510,13 @@ form{
 
 }
 .img04{
-    height: 500px;
+    height: 400px;
     display: flex;
     align-content: center;
     margin-right: 130px;
     padding: 20px;
     margin-left: 800px;
-    margin-top: -276px;
+    margin-top: -280px;
     margin-bottom: 100px;
 }
 .grafica011{
